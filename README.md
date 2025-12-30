@@ -1,16 +1,41 @@
-## Hi there 👋
+<h1 align="center"><span style="color:#00BFFF">NGUYEN TUAN ANH</span></h1>
 
-<!--
-**tuananhsn95/tuananhsn95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Backend Developer · Java
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ABOUT ME
+
+---
+
+### TECH STACK
+
+#### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
+
+---
+
+#### Backend & System
+- **Java**: Spring Boot, Spring Security, JPA/Hibernate
+
+---
+
+#### Databases
+- MySQL
+
+---
+
+#### DevOps
+- Docker, Docker Compose
+- Git, GitHub Actions  
+
+---
+
+### Tools
+- Postman  
+- IntelliJ IDEA, VS Code
+
+---
