@@ -20,24 +20,31 @@
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
 ---
 
-#### Backend & System
+#### Backend
 - **Java**: Spring Boot, Spring Security, JPA/Hibernate
 
 ---
 
 #### Databases
 - MySQL
+- SQL Server
 
+---
+
+### System
+- Linux
 ---
 
 #### DevOps
 - Docker, Docker Compose
-- Git, GitHub Actions  
+- Git, GitHub Actions
 
 ---
 
 ### Tools
-- Postman  
-- IntelliJ IDEA, VS Code
+- Postman
+- SmartGit
+- IntelliJ IDEA, VS Code, Netbean, Eclipse
+- Android Studio
 
 ---
