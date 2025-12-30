@@ -15,7 +15,9 @@
 #### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
-
+[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
+[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
 ---
 
 #### Backend & System
