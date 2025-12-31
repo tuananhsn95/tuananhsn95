@@ -7,6 +7,9 @@
 ---
 
 ### ABOUT ME
+- Backend Developer in Java (Spring Boot).
+- Build automation tools.
+- Build system trading (MT4, MT5).
 
 ---
 
