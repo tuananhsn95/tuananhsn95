@@ -21,24 +21,34 @@
 ---
 
 #### Backend
-- **Java**: Spring Boot, Spring Security, JPA/Hibernate
-
+- **Java**: Spring Boot, Spring Security, JPA/Hibernate, Socket
+- **Python**: Automation
+- **C Sharp**: Tool Gui Automation and report, Socket
+- **Unity**: Game Developer
 ---
 
 #### Databases
 - MySQL
 - SQL Server
+- MongoDB
+---
+
+#### Cache
+- Memcache
+- Hazelcast
+- Redis
 
 ---
 
 ### System
-- Linux
+- Linux (Ubuntu, centos,...)
+- Bash shell
 ---
 
 #### DevOps
 - Docker, Docker Compose
 - Git, GitHub Actions
-
+- K8S
 ---
 
 ### Tools
